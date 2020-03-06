@@ -3,25 +3,25 @@
     {
     "id": 1,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
-    "WebUrl": "https://dailyexamchallange.blogspot.com/search/label/bengali",
-    "Title": "Current Affairs 1"
+    "WebUrl": "https://dailyexamchallange.blogspot.com/search/label/current%20affairs",
+    "Title": "প্রতিদিন কারেন্ট অ্যাফেয়ার্স"
     },
     {
     "id": 2,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
-    "WebUrl": "https://dailyexamchallange.blogspot.com/p/blog-page_83.html",
+    "WebUrl": "#",
     "Title": "Current Affairs 2"
     },
     {
     "id": 3,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
-    "WebUrl": "https://dailyexamchallange.blogspot.com/p/blog-page_25.html",
+    "WebUrl": "#",
     "Title": "Current Affairs 3"
     },
     {
     "id": 4,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
-    "WebUrl": "https://dailyexamchallange.blogspot.com/p/blog-page_26.html",
+    "WebUrl": "#",
     "Title": "Current Affairs 4"
     }
     ]
