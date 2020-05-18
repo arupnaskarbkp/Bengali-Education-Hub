@@ -3,32 +3,50 @@
     {
     "id": 1,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/pdf.png",
-    "WebUrl": "https://dailyexamchallange.blogspot.com/search/label/pdf",
-    "Title": "সমস্ত রকম সাজেসান ডাউনলোড করুন"
+    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/history/prachin-jug/prak-boidik-jug.html",
+    "Title": "প্রাক্‌ বৈদিক যুগ"
     },
    {
     "id": 2,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/pdf.png",
-    "WebUrl": "https://drive.google.com/file/d/1a_sdcXe6_4V2B80ACo5EtkV_KxBaxERl/view",
-    "Title": "January Month CA Pdf 2020"
+    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/history/prachin-jug/boidik-sovota.html",
+    "Title": "বৈদিক সভ্যতা"
     },   
     {
     "id": 3,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/pdf.png",
-    "WebUrl": "https://drive.google.com/file/d/1xlI5yDf_mW3haZz0uz9h5T3QMgo4UPhv/view",
-    "Title": "February Month CA Pdf 2020"
+    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/history/prachin-jug/joino-obodho-dhormo.html",
+    "Title": "জৈন ও বৌদ্ধ ধর্ম"
     },
    {
     "id": 3,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/pdf.png",
-    "WebUrl": "https://drive.google.com/file/d/1yG3YzFlD0o9jaeCW8wUobRR7hT9BcX6Q/view",
-    "Title": "March Month CA Pdf 2020"
+    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/history/adhunic-jug/companyr-sasonkl.html",
+    "Title": "কোম্পানীর শাসনকাল"
     },
    {
     "id": 3,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/pdf.png",
-    "WebUrl": "https://drive.google.com/file/d/1V0Fq-nlXqFudAw7tclLeuAp-5kUXABbW/view",
-    "Title": "April Month CA Pdf 2020"
+    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/history/adhunic-jug/bs-sp.html",
+    "Title": "ব্রিটিশ সাম্রাজ্য ও সাংস্কৃতিক প্রেক্ষাপট"
+    },
+   {
+    "id": 3,
+    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/pdf.png",
+    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/history/adhunic-jug/bs-ja.html",
+    "Title": "ব্রিটিশ সাম্রাজ্য ও জাতীয়তাবাদী আন্দোলন"
+    },
+    {
+    "id": 3,
+    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/pdf.png",
+    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/history/modho-jug/sultani-jug.html",
+    "Title": "সুলতানী যুগ"
+    },
+   {
+    "id": 3,
+    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/pdf.png",
+    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/history/modho-jug/mogil-jug.html",
+    "Title": "মোঘল যুগ"
     }     
     ]
     }
